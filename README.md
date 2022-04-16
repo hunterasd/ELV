@@ -6,3 +6,5 @@ EXL50 项目常用的Labview组件库
 队列封装的Labview消息处理器组件，构造异步通信架构
 ## EXML
 解析和读取EXL50放电参数的Labview库组件
+
+## 待续
